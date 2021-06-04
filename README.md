@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning **Java/Python/Back-end/AWS**
+- 🌱 I’m currently learning **Java/Back-end/AWS**
 
 ![sonic247897's github stats](https://github-readme-stats.vercel.app/api?username=sonic247897&show_icons=true&theme=tokyonight)
 
